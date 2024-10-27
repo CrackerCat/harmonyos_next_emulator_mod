@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "version": "1.0.0"
+  },
+  "data": {
+    "displayName": "Emulator",
+    "path": "emulator",
+    "releaseType": "Canary4",
+    "version": "5.0.3.405",
+    "stage": "Developer Beta1"
+  }
+}
